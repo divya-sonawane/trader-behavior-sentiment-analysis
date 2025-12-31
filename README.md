@@ -58,3 +58,9 @@ Risk-adjusted performance metrics
 Open the notebook in Google Colab
 Upload the required CSV files
 Run cells sequentially
+
+*Conclusion
+
+This analysis demonstrates that market sentiment plays a meaningful role in trader performance.
+Greed periods tend to be more profitable with higher win rates, while Fear periods introduce higher risk and uncertainty.
+Understanding this relationship can help traders and platforms design more adaptive and sentiment-aware trading strategies.
